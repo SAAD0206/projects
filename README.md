@@ -15,10 +15,10 @@ This is a simple Python-based **Virtual Assistant** project that can perform tas
 ## 🛠️ Requirements
 Install these libraries before running the project:
 
- pyttsx3
- speech_recognition as sr
- datetime
- os
- webbrowser
- sys
- time
+ pyttsx3,
+ speech_recognition as sr,
+ datetime,
+ os,
+ webbrowser,
+ sys,
+ time,
